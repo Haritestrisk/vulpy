@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHaritestrisk%2Fvulpy.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHaritestrisk%2Fvulpy?ref=badge_shield)
+
 Vulpy - Web Application Security Lab
 ====================================
 
@@ -100,3 +102,7 @@ After database initialization, three users are created:
 You can login with any user, the application doesn't have a permissions system, so, the three have the same permissions.
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHaritestrisk%2Fvulpy.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHaritestrisk%2Fvulpy?ref=badge_large)
